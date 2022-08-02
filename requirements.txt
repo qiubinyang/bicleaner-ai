@@ -13,3 +13,4 @@ python-Levenshtein
 transformers>=4.10.3,<5.0.0
 psutil
 bifixer
+pypi-kenlm
